@@ -19,6 +19,11 @@ This repository demonstrates a **static full-stack CRUD application** built usin
    - "Mark All Done" and "Mark All Undone" buttons for bulk updates.  
    - Tasks maintain their completed order based on the time they were marked "done."
 
+## Live Demo
+
+You can view and interact with the live project here:  
+👉 [**Static Full-Stack Task Manager**](https://no-server-full-stack-task-manager.netlify.app/)
+
 ## How It Works
 
 - **Initial Data**: Loaded from a static `data.json` file during the first run.  
